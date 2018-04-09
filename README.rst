@@ -40,8 +40,7 @@ Run the composer command
 
 DATABASE RELATIONSHIP
 ----------------------------
-![der](https://user-images.githubusercontent.com/1281429/38481143-ae9f9250-3b9f-11e8-8518-4a7daf9cdf38.jpg)
-
+![Screenshot](https://user-images.githubusercontent.com/1281429/38481143-ae9f9250-3b9f-11e8-8518-4a7daf9cdf38.jpg)
 
 https://github.com/fernandohs1500/todolist/blob/master/README/todo_db.pdf
 
