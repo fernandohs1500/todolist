@@ -1,3 +1,7 @@
+PROJECT 
+==============
+PHP (SILEX FRAMEWORK) + MYSQL + APACHE 
+
 TODO PROJECT INSTRUCTIONS
 ==============
 
@@ -63,3 +67,13 @@ TESTS
 ![captura de tela de 2018-04-09 01-51-41](https://user-images.githubusercontent.com/1281429/38481159-baeb8028-3b9f-11e8-8f3f-fe17c5e14c0c.png)
 ![captura de tela de 2018-04-09 01-52-24](https://user-images.githubusercontent.com/1281429/38481160-bb5debf4-3b9f-11e8-9e32-ac2d969a015e.png)
 ![captura de tela de 2018-04-09 01-52-38](https://user-images.githubusercontent.com/1281429/38481161-bb895ab4-3b9f-11e8-8d50-508e0cb80ce7.png)
+
+
+META
+----------------------------
+
+Fernando Henrique – [@fernandohs1500](https://www.linkedin.com/in/fernandohs1500/) – fernandimgts@gmail.com
+
+Distribuído sob a licença MIT.
+
+[https://github.com/fernandohs1500/](https://github.com/fernandohs1500/)
