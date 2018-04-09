@@ -36,3 +36,21 @@ Run the composer command
 .. code-block:: console
 
     $ composer update
+
+
+DATABASE RELATIONSHIP
+----------------------------
+![alt text](https://github.com/fernandohs1500/todolist/blob/master/README/der.jpg)
+
+https://github.com/fernandohs1500/todolist/blob/master/README/todo_db.pdf
+
+HOW TO TEST ?
+----------------------------
+
+https://www.getpostman.com/
+
+TESTS
+----------------------------
+
+https://github.com/fernandohs1500/todolist/tree/master/README/snapshot
+
