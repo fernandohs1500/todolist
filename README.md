@@ -49,7 +49,16 @@ HOW TO TEST ?
 
 https://www.getpostman.com/
 
-TESTS
+SERVICES LIST
+----------------------------
+
+GET  - http://todolist.com/guest/list-all
+POST - http://todolist.com/guest/save
+GET - http://todolist.com/guest/delete/{TASK_ID}
+POST - http://todolist.com/guest/update
+POST - http://todolist.com/guest/prioritize
+
+SCREENSHOTS
 ----------------------------
 
 
