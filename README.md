@@ -30,10 +30,16 @@ index.php:
     $app->run();
 
 
-Composer
+INSTALLATION
 ----------------------------
 
-Run the composer command
+    - INSTALL PHP 7
+
+    - INSTALL COMPOSER
+
+    - INSTALL APACHE
+
+Run the composer command inside project
 
     $ composer update
 
