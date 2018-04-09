@@ -50,6 +50,9 @@ DATABASE RELATIONSHIP
 
 [todo_db.pdf](https://github.com/fernandohs1500/todolist/files/1888596/todo_db.pdf)
 
+[todo_db.sql](https://github.com/fernandohs1500/todolist/blob/master/README/todo_db.sql)
+
+
 HOW TO TEST ?
 ----------------------------
 
