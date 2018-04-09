@@ -5,8 +5,6 @@ create a index.php file inside /web/
 
 index.php:
 
-.. code-block:: console
-
     ini_set('display_errors', 1);
 
     require_once __DIR__.'/../vendor/autoload.php';
@@ -33,15 +31,14 @@ Composer
 
 Run the composer command
 
-.. code-block:: console
-
     $ composer update
 
 
 DATABASE RELATIONSHIP
 ----------------------------
 ![der](https://user-images.githubusercontent.com/1281429/38481143-ae9f9250-3b9f-11e8-8518-4a7daf9cdf38.jpg)
-https://github.com/fernandohs1500/todolist/blob/master/README/todo_db.pdf
+
+[todo_db.pdf](https://github.com/fernandohs1500/todolist/files/1888596/todo_db.pdf)
 
 HOW TO TEST ?
 ----------------------------
