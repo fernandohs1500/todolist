@@ -1,0 +1,18 @@
+INSERT INTO `profile` (`id`, `name`) VALUES
+(1, 'Guest'),
+(3, 'Admin');
+
+INSERT INTO `todo_list` (`uuid`, `type`, `content`, `sort_order`, `done`, `date_created`, `id_user`) VALUES
+(8, 2, 'Content updated', 2, 0, '2018-04-09 04:31:08', 3),
+(9, 2, 'Content task', 3, 0, '2018-04-09 04:39:43', 3),
+(10, 2, 'Content task', 4, 0, '2018-04-09 04:39:48', 3),
+(11, 2, 'Content task', 1, 0, '2018-04-09 04:39:51', 3),
+(12, 2, 'Content task', 5, 0, '2018-04-09 04:39:56', 3);
+
+INSERT INTO `type` (`uuid`, `type`) VALUES
+(1, 'shopping'),
+(2, 'work');
+
+INSERT INTO `user` (`id`, `login`, `email`, `active`, `dat_register`, `token`, `dat_token_expiration`, `cod_profile`) VALUES
+(1, 'admin', 'fernandimgts@gmail.com', 1, '2018-04-07 19:32:59', 'ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', '2018-04-08 19:32:59', 3),
+(3, 'guest', 'guest@guest.com', 1, '2018-04-08 03:00:00', NULL, NULL, 1);
